@@ -7,7 +7,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/ThomsonReutersEikon/go-ntlm/ntlm"
+	"github.com/bdwyertech/go-ntlm/ntlm"
 )
 
 func main() {

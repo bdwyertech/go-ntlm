@@ -1,1 +1,1 @@
-module github.com/ThomsonReutersEikon/go-ntlm
+module github.com/bdwyertech/go-ntlm
